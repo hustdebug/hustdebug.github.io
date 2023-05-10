@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gaoning Pan / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Gaoning Pan"
 description              : &description "personal description"
