@@ -22,8 +22,10 @@ Education
 
 Work experience
 ======
-* 2020-2021: Research Intern
-  * Ant Security Light-year Lab
+* 2020-2021: Research Intern at Ant Security Light-year Lab
+  
+* 2018-Present: Member at Top international CTF team [AAA](https://ctftime.org/team/4070)
+  
 
 
 
