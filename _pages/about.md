@@ -11,16 +11,7 @@ redirect_from:
 Hi! I'm currently a PhD candidate in [Zhejiang University](https://www.zju.edu.cn/english/) under the supervision of [Prof. Chunming Wu](https://person.zju.edu.cn/0095168/674414.html) and [Prof. Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). Before ZJU, I got my bachelor degree at [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
 
 
-**Current focus**: Fuzzing, Virtualization, System Security
-
-
-
-
-Work & Research Experience 
-======
-- 02/2023-05/2023: Visiting Researcher, National University of Singapore, advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
-- 06/2022-10/2022: Research Intern, [FedML Inc](https://www.fedml.ai/), advised by [Dr. Chaoyang He](https://chaoyanghe.com/)
-- 10/2018-09/2020: Research Assistant, Hong Kong Baptist University, advised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen)
+**Current focus**: Fuzzing, Virtualization Security, System Security
 
 
 
