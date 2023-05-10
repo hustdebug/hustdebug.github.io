@@ -10,4 +10,4 @@ author_profile: true
 
 **Gaoning Pan**, Xingwei Lin, Xuhong Zhang, Yongkang Jia, Shouling Ji, Chunming Wu, Xinlei Ying, Jiashui Wang, and Yanjun Wu
 
-ACM Conference on Computer and Communications Security (CCS 2021)  $\color{red}{**\* Best Paper Award**}$
+ACM Conference on Computer and Communications Security (CCS 2021)  $\color{red}{Best Paper Award}$
