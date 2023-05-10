@@ -14,3 +14,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+Gaoning Pan, Xingwei Lin, Xuhong Zhang, Yongkang Jia, Shouling Ji, Chunming Wu, Xinlei Ying, Jiashui Wang, and Yanjun Wu, V-SHUTTLE: Scalable and Semantics-Aware Hypervisor Virtual Device Fuzzing, ACM Conference on Computer and Communications Security (CCS)
