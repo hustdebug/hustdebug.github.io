@@ -16,12 +16,12 @@ MINER: A Hybrid Data-Driven Approach for REST API Fuzzing.
 
 Xiang Ling, Lingfei Wu, Saizhuo Wang, **Gaoning Pan**, Tengfei Ma, Fangli Xu, AleX Liu, Chunming Wu, Shouling Ji. 
 Deep Graph Matching and Searching for Semantic Code Retrieval. 
-ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2021.
+ACM Transactions on Knowledge Discovery from Data (**TKDD**) 2021.
 
 Boyang Zhou, **Gaoning Pan**, Chunming Wu, Kai Zhu, Wei Ruan. 
 Multi-Variant Network Address Hopping to Defend Stealthy Crossfire Attack. 
-Science China Information Sciences, 2020.
+Science China Information Sciences 2020.
 
 Shuangxi Chen, Gaoning Pan, Chunming Wu, Xinyue Jiang. 
 Research on Executive Control Strategy of Mimic Web Defense Gateway. 
-IEEE International Symposium on Networks, Computers and Communications (ISNCC), 2019. 
+IEEE International Symposium on Networks, Computers and Communications (ISNCC) 2019. 
