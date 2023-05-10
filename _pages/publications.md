@@ -14,9 +14,23 @@ Chenyang Lyu, Jiacheng Xu, Shouling Ji, Xuhong Zhang, Qinying Wang, Binbin Zhao,
 MINER: A Hybrid Data-Driven Approach for REST API Fuzzing. 
 **USENIX Security Symposium 2023**.
 
+**Gaoning Pan**, Xingwei Lin, Xinlei Ying, Jiashui Wang. 
+Scavenger: Misuse Error Handling. Leading To QEMU/KVM Escape. 
+**Black Hat Asia 2021**. 
+
+Qiuhao Li, **Gaoning Pan**, Hui he, Chunming Wu. 
+Hunting and Exploiting Recursive MMIO Flaws in QEMU/KVM. 
+**Black Hat Asia 2022**.
+
+Qiuhao Li, **Gaoning Pan**, Hui he, Chunming Wu. 
+Matryoshka Trap: Recursive MMIO Flaws Lead to VM Escape. 
+**CanSecWest 2022**.
+
+
+
 Xiang Ling, Lingfei Wu, Saizhuo Wang, **Gaoning Pan**, Tengfei Ma, Fangli Xu, AleX Liu, Chunming Wu, Shouling Ji. 
 Deep Graph Matching and Searching for Semantic Code Retrieval. 
-ACM Transactions on Knowledge Discovery from Data (**TKDD**) 2021.
+ACM Transactions on Knowledge Discovery from Data (**TKDD 2021**).
 
 Boyang Zhou, **Gaoning Pan**, Chunming Wu, Kai Zhu, Wei Ruan. 
 Multi-Variant Network Address Hopping to Defend Stealthy Crossfire Attack. 
