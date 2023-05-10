@@ -15,9 +15,15 @@ Hi! I'm currently a PhD candidate in [Zhejiang University](https://www.zju.edu.c
 
 
 
+Education
+======
+* B.S. in Huazhong University of Science and Technology, 2018
+* Ph.D in Zhejiang University, Expected 2023
 
-
-
+Work experience
+======
+* 2020-2021: Research Intern
+  * Ant Security Light-year Lab
 
 
 
