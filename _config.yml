@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Gaoning Pan"
+name                     : "Gaoning Pan"
 description              : &description "personal description"
 url                      : https://hustdebug.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gaoning Pan"
   avatar           : "profile.png"
-  bio              : "PhD student in Zhejiang University"
+  bio              : "Hangzhou Dianzi University"
   location         : "China Hangzhou"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=CfTwWkYAAAAJ"
-  email            :  "pgn@hdu.edu.cn"
+  email            : "pgn@hdu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
