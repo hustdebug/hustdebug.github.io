@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Gaoning Pan"
 title_separator          : "-"
 name                     : "Gaoning Pan"
 description              : "Assistant Professor at Zhejiang University. Research interests include adversarial machine learning and security of LLMs."
